@@ -19,3 +19,35 @@ The work focuses on cloud infrastructure deployment, IoT device security, networ
 ---
 
 ## Repository Structure
+
+cloud-iot-security-architecture-analysis
+
+cloud_infrastructure/
+cloud_deployment_and_security_analysis.pdf
+
+iot_security/
+iot_network_security_and_risk_analysis.pdf
+
+architecture/
+enterprise_iot_security_architecture_whitepaper.pdf
+
+---
+
+## Skills Demonstrated
+
+This repository demonstrates practical cybersecurity and infrastructure skills including:
+
+- Cloud deployment and configuration
+- Security analysis of distributed systems
+- Network segmentation and access control
+- IoT security risk identification and mitigation
+- Enterprise architecture evaluation
+- Technical documentation and communication
+
+---
+
+## Purpose
+
+Modern enterprise environments rely heavily on cloud infrastructure and interconnected devices.
+
+This repository demonstrates the ability to evaluate, design, and secure these environments using industry-relevant security principles and best practices.
