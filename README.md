@@ -29,7 +29,10 @@ iot_security/
 iot_network_security_and_risk_analysis.pdf
 
 architecture/
-enterprise_iot_security_architecture_whitepaper.pdf
+  enterprise_iot_security_architecture_whitepaper.pdf
+  smart_hotel_iot_security_architecture_analysis.pdf
+  enterprise_cloud_security_strategic_plan.pdf
+  enterprise_operations_and_security_governance_plan.pdf
 
 ---
 
